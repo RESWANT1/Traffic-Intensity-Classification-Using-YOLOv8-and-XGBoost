@@ -104,7 +104,11 @@ project/
 └── README.md
 ```
 
-> Note: Model weights (`.pt`) and video files (`.mp4`) are not included in this repo due to size.
+## Model Weights
+The model weights are not included in this repo due to file size.
+- Download YOLOv8l pretrained weights: [yolov8l.pt](https://github.com/ultralytics/assets/releases)
+- Our custom trained weights are available on request — contact me at: itsreswant534@email.com
+
 
 ---
 
@@ -124,6 +128,6 @@ Zone 2: Total unique vehicles=35, Avg Density=0.189000, Avg Speed=58.30 km/h, Ov
 
 ##  Author
 
-**Reswant**  
-B.Tech — 5th Semester ML Project  
+**Reswant Raja S**  
+
 
