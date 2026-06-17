@@ -1,6 +1,4 @@
 # Traffic-Intensity-Classification-Using-YOLOv8-and-XGBoost
-# Traffic Monitoring System
-
 A real-time vehicle detection, tracking, and congestion analysis system built for **Differenbt road conditions** using YOLOv8 and OpenCV.
 
 ---
